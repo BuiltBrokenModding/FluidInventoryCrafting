@@ -1,0 +1,18 @@
+{
+  "type": "fluidinventorycrafting:fluid_shapeless",
+  "fill": true,
+  "ingredients": [
+    {
+      "type": "fluidinventorycrafting:fluid",
+      "result": true,
+      "fluid": "lava"
+    },
+    {
+      "item": "minecraft:coal",
+      "data": 0
+    },
+    {
+      "item": "minecraft:blaze_rod"
+    }
+  ]
+}

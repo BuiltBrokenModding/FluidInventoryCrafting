@@ -1,0 +1,14 @@
+{
+  "type": "fluidinventorycrafting:fluid_shapeless",
+  "fill": true,
+  "ingredients": [
+    {
+      "type": "fluidinventorycrafting:fluid",
+      "result": true,
+      "fluid": "water"
+    },
+    {
+      "item": "minecraft:cactus"
+    }
+  ]
+}

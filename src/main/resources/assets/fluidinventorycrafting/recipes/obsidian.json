@@ -1,0 +1,19 @@
+{
+  "type": "fluidinventorycrafting:fluid_shaped",
+  "result": {
+    "item": "minecraft:obsidian"
+  },
+  "pattern": [
+    "lw"
+  ],
+  "key": {
+    "l": {
+      "type": "fluidinventorycrafting:fluid",
+      "fluid": "lava"
+    },
+    "w": {
+      "type": "fluidinventorycrafting:fluid",
+      "fluid": "water"
+    }
+  }
+}

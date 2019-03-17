@@ -1,0 +1,20 @@
+{
+  "type": "fluidinventorycrafting:fluid_shaped",
+  "result": {
+    "item": "minecraft:cobblestone",
+    "count": 64
+  },
+  "pattern": [
+    "wl"
+  ],
+  "key": {
+    "l": {
+      "type": "fluidinventorycrafting:fluid",
+      "fluid": "lava"
+    },
+    "w": {
+      "type": "fluidinventorycrafting:fluid",
+      "fluid": "water"
+    }
+  }
+}

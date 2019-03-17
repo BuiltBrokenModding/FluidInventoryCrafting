@@ -1,0 +1,9 @@
+{
+  "ingredients": {
+    "fluid": "com.builtbroken.fluidinventorycrafting.recipe.IngredientFluidFactory"
+  },
+  "recipes": {
+    "fluid_shapeless": "com.builtbroken.fluidinventorycrafting.recipe.ShapelessRecipeFluidFactory",
+    "fluid_shaped": "com.builtbroken.fluidinventorycrafting.recipe.ShapedRecipeFluidFactory"
+  }
+}
